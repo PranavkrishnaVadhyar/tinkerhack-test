@@ -6,11 +6,11 @@
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Pranav]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Pranav] - [College]
+- Member 2: [krishna] - [College]
 
 ### Hosted Project Link
 [mention your project hosted link here]
